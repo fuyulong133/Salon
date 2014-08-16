@@ -1,0 +1,4 @@
+salon_admin:
+    resource: "@SalonAdminBundle/Resources/config/routing.yml"
+    prefix:   /
+
